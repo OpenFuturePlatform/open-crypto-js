@@ -1,0 +1,19 @@
+{
+  "name": "open-crypto-js",
+  "version": "1.0.0",
+  "description": "Open Platform Javascript Library",
+  "keywords": [
+    "pbkdf2",
+    "salt",
+    "hash"
+  ],
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "dependencies": {
+    "crypto-js": "^3.1.8"
+  },
+  "author": "Open Platform",
+  "license": "MIT"
+}
